@@ -12,3 +12,5 @@ including versions of Lorem Ipsum.What is Lorem Ipsum?
 
 page 2
 text
+
+page 2 more information
