@@ -16,3 +16,6 @@ folder to keep track of changes locally, on each device
 Remote Repository:
 folder online that keeps track of changes. but also can have changes of others
 
+un-versioned:not being kept track of
+
+commit:saved my changes to my local repository
