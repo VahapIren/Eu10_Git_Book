@@ -3,3 +3,16 @@
 Hi Cydeo
 
 You are best course school
+
+Git:
+a version control system
+
+GitHub:
+platform to host remote repositories
+
+Local Repository:
+folder to keep track of changes locally, on each device
+
+Remote Repository:
+folder online that keeps track of changes. but also can have changes of others
+
